@@ -88,6 +88,7 @@ header {
 }
 /* More info */
 .intro {
+	width: 100%;
 	background-color: #FFFFFF;
 	padding-bottom: 35px;
 }
