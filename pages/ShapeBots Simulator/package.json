@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ryosuzuki/shapebots-simulator#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "munkres-js": "^1.2.2",
     "orbit-controls-es6": "^2.0.0",
     "parse-svg-path": "^0.1.2",
